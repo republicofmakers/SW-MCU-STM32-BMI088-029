@@ -9,7 +9,7 @@ Here is simple code for gyro and accelorometer reading from	BMI088.
 
 ## Demonstration:
 
-<img width="724" alt="demo" src="https://github.com/user-attachments/assets/9703d0ed-6057-4ff5-8bcb-3fc9aa4541f2" />
+<img width="866" alt="demo" src="https://github.com/user-attachments/assets/7a4c9247-1cba-4d8b-ba41-790459d8616c" />
 
 
 Hope this helps you.
