@@ -15,4 +15,5 @@ Here is simple code for gyro and accelorometer reading from	BMI088.
 Hope this helps you.
 
 STM32 BMI088
+
 Ceyhun Pempeci
